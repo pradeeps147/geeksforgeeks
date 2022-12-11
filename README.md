@@ -5,3 +5,6 @@ https://www.youtube.com/@NormalizedNerd/videos
 
 
 https://www.youtube.com/@5MinutesEngineering/videos
+
+
+https://www.youtube.com/@statquest/videos
